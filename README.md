@@ -1,3 +1,3 @@
 # GamesNetwork
-
-Aplicacion la cual muestra un repositorio generico utilizando entityFrameworkcore
+  
+* Es un aplicacion sencilla con un repositorio Generico utilizando entityFrameworkCore y NetCore 3.1
